@@ -5,3 +5,5 @@ Git is free software.
 现在我们观察一下暂存区
 
 添加一个dev分支
+
+切换回master之后 提交
