@@ -4,4 +4,4 @@ Git is free software.
 
 现在我们观察一下暂存区
 
-添加一个dev分支
+又添加一个分支
