@@ -5,3 +5,5 @@ Git is free software.
 现在我们观察一下暂存区
 
 又添加一个分支
+
+尝试 --no-ff
